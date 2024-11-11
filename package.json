@@ -47,6 +47,9 @@
   "tree-sitter": [
     {
       "scope": "source.mom",
+      "file-types": [
+        "mom"
+      ],
       "injection-regex": "^mom$"
     }
   ]
